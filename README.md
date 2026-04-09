@@ -140,7 +140,7 @@ This repository contains a professional **Phishing Detection & Awareness Report*
 ---
 ## Detailed Report
 
-*For a full, detailed analysis of the phishing email samples and comprehensive prevention guidelines, please refer to the complete [report](report/Phishing_Detection_Awareness_Report.pdf)
+*For a full, detailed analysis of the phishing email samples and comprehensive prevention guidelines, please refer to the complete [report](report/Phishing_Detection_Awareness_Report.pdf)*
 
 ---
 
