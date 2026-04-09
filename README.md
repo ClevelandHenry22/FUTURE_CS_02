@@ -1,4 +1,4 @@
-# FUTURE_CS_02 (Phishing Email Detection & Awareness system)
+# FUTURE_CS_02 (Phishing Email Detection & Awareness)
 
 #  PhishGuard-Awareness — Phishing Detection & Awareness Report
 
