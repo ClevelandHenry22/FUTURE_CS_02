@@ -54,12 +54,15 @@ This repository contains a professional **Phishing Detection & Awareness Report*
 *Out of the seven samples analyzed, three were verified as legitimate. These emails shared clear traits of authenticity: verified sender domains, expected content, professional formatting, and no requests for credentials. Recognizing a legitimate email often involves checking that the sender matches the official domain, the links point to trusted websites, and the message aligns with normal communication patterns.*
 
 ***Email 1***
+
 ![legit 1](screenshots/email1.png)
 
 ***Email 4***
+
 ![legit 4](screenshots/email4.png)
 
 ***Email 6***
+
 ![legit 6](screenshots/email6.png)
 
 ---
@@ -69,19 +72,26 @@ This repository contains a professional **Phishing Detection & Awareness Report*
 *The remaining four emails were identified as phishing or scams. They used tactics like spoofed domains, lookalike URLs, social engineering narratives, and brand impersonation. These emails often create urgency, request sensitive information, or use suspicious links to steal credentials. Awareness of these red flags helps users avoid falling victim to such attacks.*
 
 ***Email 2***
+
 * Domain spoofing (non-Microsoft sender claiming OneDrive)*
 ![email 2](screenshots/email2.png)
 
 ***Email 3***
+
 *Lookalike URL (faceBook.com.opt — non-existent TLD)*
+
 ![email 3](screenshots/email3.png)
 
 ***Email 5***
+
 *Social engineering narrative (fake FBI agent)*
+
 ![email 5](screenshots/email5.png)
 
 ***Email 7***
+
 * Brand impersonation + obfuscated URL (Geico / urlif.y)*
+  
 ![email 7](screenshots/email7.png)
 
 ---
@@ -130,10 +140,10 @@ This repository contains a professional **Phishing Detection & Awareness Report*
 ---
 ## Detailed Report
 
-*For a full, detailed analysis of the phishing email samples and comprehensive prevention guidelines, please refer to the complete [report](report/Phishing_Detection_Awareness_Report)
+*For a full, detailed analysis of the phishing email samples and comprehensive prevention guidelines, please refer to the complete [report](report/Phishing_Detection_Awareness_Report.pdf)
 
 ---
 
 ## Author
 
-*Cleveland Henry Lore | Future Interns Cybersecurity Internship 2026*
+*Cleveland Henry Lore | Future Interns Cybersecurity Programme 2026*
