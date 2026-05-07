@@ -1,6 +1,5 @@
-# FUTURE_CS_02 (Phishing Email Detection & Awareness)
+# Phishing Email Detection & Awareness
 
-#  PhishGuard-Awareness — Phishing Detection & Awareness Report
 
 > **Future Interns Cybersecurity Programme**
 > Prepared by: **Cleveland Henry** 
