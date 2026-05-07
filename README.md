@@ -2,10 +2,10 @@
 
 #  PhishGuard-Awareness — Phishing Detection & Awareness Report
 
-> **Future Interns Cybersecurity Programme | Task 2**
-> Prepared by: **Cleveland Henry** | Kenyatta University, Nairobi, Kenya | April 2026
+> **Future Interns Cybersecurity Programme**
+> Prepared by: **Cleveland Henry** 
 
-> CIN: **FIT/MAR26/CS7112**
+
 
 ---
 
